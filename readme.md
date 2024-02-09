@@ -32,11 +32,11 @@ Para configurar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/victorpowilleit/seu-repositorio.git
+git clone https://github.com/victorpowilleit/nlw-expert-notes.git
 ```
 2. Navegue até a pasta do repositório:
 ```bash
-cd seu-repositorio
+cd nlw-expert-notes
 ```
 3. Instale as dependências:
 ```bash
@@ -87,11 +87,11 @@ To set up this project locally, follow these steps:
 
 1. lone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/victorpowilleit/nlw-expert-notes.git
 ```
 2. Navigate to the repository folder:
 ```bash
-cd your-repository
+cd nlw-expert-notes
 ```
 3. Install the dependencies:
 ```bash
