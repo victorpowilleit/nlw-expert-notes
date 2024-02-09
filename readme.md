@@ -4,7 +4,7 @@
 #### [PT-BR](#pt-br) || [US-EN](#us-en)
 
 # PT-BR
-Consiste num app minimalista para criar e gerenciar notas. Com suporte para entrada de texto e áudio, os usuários podem facilmente adicionar novas notas falando, além de digitá-las. O reconhecimento de fala é feito através da API `SpeechRecognition` disponível em navegadores modernos, tornando a adição de notas rápida e eficiente.
+Consiste num app minimalista para criar e gerenciar notas. Com suporte para entrada de texto e áudio, os usuários podem facilmente adicionar novas notas falando, além de digitá-las. O reconhecimento de fala é feito através da `SpeechRecognition API` disponível em navegadores modernos, tornando a adição de notas rápida e eficiente.
 
 ## Características
 
@@ -57,7 +57,7 @@ Para contribuir:
 Feito por [Victor Powilleit](https://github.com/victorpowilleit) no evento NLW.
 
 # US-EN
-This app is a minimalist tool for creating and managing notes. With support for both text and audio input, users can easily add new notes by speaking, in addition to typing them. Speech recognition is performed through the SpeechRecognition API available in modern browsers, making note addition quick and efficient.
+This app is a minimalist tool for creating and managing notes. With support for both text and audio input, users can easily add new notes by speaking, in addition to typing them. Speech recognition is performed through the `SpeechRecognition API` available in modern browsers, making note addition quick and efficient.
 
 
 ## Features
